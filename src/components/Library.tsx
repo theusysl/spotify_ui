@@ -35,6 +35,8 @@ function Library() {
         <LibraryItem type="playlist" name="as melhores do oruam" cape="/oruam.jpg" author="menorzin22" />
         <LibraryItem type="artist" name="Mc Kelvinho" cape="/kelvinho.jpg" />
         <LibraryItem type="album" name="More Chaos" cape="/more_chaos.jpg" author="Ken Carson" />
+        <LibraryItem type="playlist" name="músicas torcida jovem do santos futebol clube" cape="/santos.jpg" author="Torcida Jovem Oficial" />
+        <LibraryItem type="artist" name="Twenty One Pilots" cape="/twenty_one_pilots.jfif" />
       </div>
     </aside>
   )
