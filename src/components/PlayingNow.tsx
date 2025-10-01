@@ -15,7 +15,7 @@ function PlayingNow() {
           <Button icon={Maximize2} variant="secondary" iconSize={14} />
         </div>
       </div>
-      <a href="" className="block p-2">
+      <a href="" className="block m-2">
         <Image src="/broken_hearts_3.jpg" width={200} height={200} alt="Capa do álbum" className="rounded-xl w-full" />
       </a>
       <div className="flex flex-row items-center p-2">

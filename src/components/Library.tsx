@@ -18,7 +18,7 @@ function Library() {
         <Filter name="Artistas" />
         <Button icon={ChevronRight} buttonSize={32} iconSize={32}/>
       </div>
-      <div className="flex flex-row gap-2 px-2 items-center">
+      <div className="flex flex-row gap-2 px-2 items-center mb-2">
         <Button icon={Search} variant="secondary" buttonSize={32} />
         <div className="flex flex-row gap-2 ml-auto items-center">
           <span className="text-sm font-semibold">

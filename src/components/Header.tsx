@@ -1,7 +1,9 @@
+import SearchBar from "./SearchBar";
+
 function Header() {
   return(
-    <header className="h-12">
-      Header
+    <header className="h-fit">
+      <SearchBar />
     </header>
   )
 }

@@ -26,8 +26,8 @@ export function LibraryItem({ type, name, cape, author }: LibraryItemProps) {
         }`}
       />
       <div className="flex flex-col px-1 overflow-hidden">
-        <h4 className="text-base font-semibold truncate">{name}</h4>
-        <div className="flex flex-row items-center text-sm font-semibold text-neutral-400 truncate">
+        <h4 className="text-base font-medium truncate">{name}</h4>
+        <div className="flex flex-row items-center text-sm font-medium text-neutral-400 truncate">
           <span>{typeLabels[type]}</span>
           {type !== "artist" && author && <span className="mx-1">•</span>}
           {author && <span className="truncate">{author}</span>}
